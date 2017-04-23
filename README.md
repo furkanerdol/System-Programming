@@ -1,6 +1,6 @@
 # System-Programming
 
-## This repository contains example of :
+### This repository contains examples of
 
 - Dynamic memory allocation
 - Forks
